@@ -16,4 +16,9 @@ C++ Linux , LLVM CLang + hello example
 ```
 make all
 ```
+
 ***
+### blog
+
+https://zenn.dev/knaka0209/scraps/3592106bb6fe1e
+
